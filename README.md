@@ -1,2 +1,2 @@
 # invoicebackend
-API Rest to provide services for Invoice app accomplish with the DIAN Colombia requirements
+API Rest to provide services for Invoice app applying DIAN Colombia requirements
